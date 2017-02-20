@@ -152,13 +152,13 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 }
 .section2 .sectionContentSubTitle {
 	font-family: sans-serif;
-	color: rgba(68,67,67,1.00);
+	color: white;
 	font-size: 14px;
 	font-weight: 400;
 }
 .section2 .sectionContent {
 	font-family: sans-serif;
-	color: rgba(146,146,146,1.00);
+	color: rgba(146,146,146,1.0);
 	font-size: 14px;
 	font-weight: 400;
 	line-height: 1.8;
