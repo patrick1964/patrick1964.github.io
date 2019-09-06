@@ -69,10 +69,11 @@ header .logoPlaceholder span {
 	display:none;
 }
 header .profilePhoto {
-	width: 259px;
+	width: 200px;
 	border-radius: 50%;
-	height: 259px;
 	clear: both;
+	transform: rotate(45deg);
+	
 }
 header .profileHeader h1 {
 	font-family: 'Montserrat', sans-serif;
@@ -138,10 +139,10 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 	font-family: ProximaNova;
 	font-size: 14px;
 	font-weight: 100;
-	color: rgba(208,207,207,1.00);
+	color: #E9070A;
 }
 .mainContent .section1 .section1Content span {
-	color: rgba(146,146,146,1.00);
+	color:#1A0C97;
 	font-family: sans-serif;
 }
 .section2 .sectionContentTitle {
@@ -152,7 +153,7 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 }
 .section2 .sectionContentSubTitle {
 	font-family: sans-serif;
-	color: white;
+	color: black;
 	font-size: 14px;
 	font-weight: 400;
 }
@@ -226,7 +227,7 @@ header .profileLogo .logoPlaceholder {
 	display: inline-block;
 }
 header .profilePhoto {
-	display: inline-block;
+	display:inline-block;
 }
 header .profileHeader {
 	text-align: center;
