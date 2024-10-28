@@ -72,7 +72,6 @@ header .profilePhoto {
 	width: 200px;
 	border-radius: 50%;
 	clear: both;
-	transform: rotate(45deg);
 	
 }
 header .profileHeader h1 {
